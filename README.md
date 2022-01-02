@@ -14,7 +14,7 @@ The purpose of this analysis is creating a neural network to predict if applican
 # Compiling, Training, and Evaluating the Model
 - The optimized model is made with 75 and 25 nuerons in the two hidden layers respectively which Relu activation functions used for the hidden layers and for the ouput layer Sigmoid is used.
 - The model accuracy is 53%, well under the target accuracy of 75%.
-- The number of nuerons was increased for both layers to increase model performance (from 31% to 53%)
+- The number of nuerons was increased for both layers to increase model performance (from 39% to 53%)
 
 ## Summary
 
